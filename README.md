@@ -4,8 +4,8 @@ Full-stack developer · Santa Maria Capua Vetere (CE)
 
 Progetto, sviluppo e mantengo in produzione applicazioni web per aziende:
 portali B2B, piattaforme SaaS e gestionali, dal modello dei dati al deploy.
-Il mio stack principale è Symfony, con cui lavoro in Capri Online Srl; nei progetti
-indipendenti uso anche Laravel.
+Sviluppo in PHP dal 2012, con Symfony come stack principale dal 2020;
+nei progetti indipendenti uso anche Laravel e curo il frontend in React.
 
 ## Competenze
 
@@ -19,7 +19,10 @@ indipendenti uso anche Laravel.
 
 ## Esperienza
 
-**Capri Online Srl**: sviluppo di applicazioni web in Symfony.
+**Capri Online Srl** · sviluppatore backend · dal 2012
+
+- Dal 2020: applicazioni in Symfony.
+- Dal 2012 al 2020: applicazioni in PHP custom.
 
 ## Progetti recenti
 
