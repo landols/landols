@@ -46,7 +46,7 @@ Applicazione PHP 7.4 con catalogo via SOAP portata in container su VPS.
 - Decisioni architetturali registrate come ADR, con un glossario del dominio per ogni progetto.
 - Ambienti riproducibili con Docker, dallo sviluppo alla produzione.
 - Strumenti di sviluppo assistito da AI per review, ricerca di bug e audit di sicurezza:
-  [landols/skills](https://github.com/landols/skills).
+  [landols/claude-skills](https://github.com/landols/claude-skills).
 
 ## Contatti
 
