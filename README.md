@@ -16,7 +16,9 @@ regressioni e manutenibilità.
 
 **Senior PHP / Symfony Developer** · Capri On Line Srl, Napoli (remoto) · da maggio 2012
 
-Sviluppo e manutenzione di Onda, come parte del team di sviluppo: nato per le disponibilità alberghiere, poi esteso alle
+Sviluppo e manutenzione di Onda in un team di tre sviluppatori fissi, più un quarto a
+periodi. Ho lavorato su tutto il backend; l'infrastruttura di deploy era del sistemista.
+Onda è nato per le disponibilità alberghiere, poi esteso alle
 attività turistiche in generale.
 
 - Backend Symfony, Doctrine e MariaDB; frontend React e Tailwind. Fino al 2020 PHP custom,
