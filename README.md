@@ -34,8 +34,9 @@ Accessi distinti per famiglie e personale, riservatezza per singolo bambino.
 Symfony 7, Doctrine, autenticazione JWT, React e TypeScript, storage S3.
 
 **Libreria di integrazione con provider di hosting e domini**
-Pacchetto PHP con contratti, implementazioni reali e mock per le API di
-20i e OpenProvider, condiviso fra più applicazioni.
+([laravel-20i-openprovider](https://github.com/landols/laravel-20i-openprovider))
+Pacchetto PHP con contratti, implementazioni reali, mock e ibride per le API di
+20i e OpenProvider, condiviso fra più applicazioni. Test con HTTP simulato e CI.
 
 **Migrazione di un e-commerce legacy**
 Applicazione PHP 7.4 con catalogo via SOAP portata in container su VPS.
