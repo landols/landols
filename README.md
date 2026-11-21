@@ -2,7 +2,7 @@
 
 Senior PHP / Symfony Developer · React · Santa Maria Capua Vetere (CE) · full remote o ibrido in Campania
 
-Sviluppo web dal 2008. Da 14 anni lavoro su Onda, il motore di gestione e prenotazione
+Sviluppo web dal 2008. Da 14 anni lavoro, in team, su Onda, il motore di gestione e prenotazione
 di attività turistiche alla base di [capri.com](https://www.capri.com),
 [positano.com](https://www.positano.com), [sorrentoinsider.com](https://www.sorrentoinsider.com)
 e altri portali. Negli ultimi anni il mio lavoro si è spostato verso le scelte architetturali,
@@ -16,7 +16,7 @@ regressioni e manutenibilità.
 
 **Senior PHP / Symfony Developer** · Capri On Line Srl, Napoli (remoto) · da maggio 2012
 
-Sviluppo e manutenzione di Onda: nato per le disponibilità alberghiere, poi esteso alle
+Sviluppo e manutenzione di Onda, come parte del team di sviluppo: nato per le disponibilità alberghiere, poi esteso alle
 attività turistiche in generale.
 
 - Backend Symfony, Doctrine e MariaDB; frontend React e Tailwind. Fino al 2020 PHP custom,
@@ -30,8 +30,9 @@ attività turistiche in generale.
 
 **Tech Manager / Full Stack Developer** · Masters At Work, Napoli · 2008 – 2012
 
-Siti web per attività commerciali, dall'analisi al rilascio. Ho progettato e sviluppato
-CMaW, il CMS proprietario alla base dei progetti dell'agenzia.
+Siti web per attività commerciali, dall'analisi al rilascio, come referente tecnico dei
+progetti. Progettazione e sviluppo di CMaW, il CMS proprietario alla base dei progetti
+dell'agenzia.
 
 ## Competenze
 
