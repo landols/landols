@@ -24,7 +24,14 @@ nei progetti indipendenti uso anche Laravel e curo il frontend in React.
 Ho costruito il motore di prenotazione e di gestione delle disponibilità che sta dietro
 ai portali turistici del gruppo, fra cui [capri.com](https://www.capri.com) e
 [positano.com](https://www.positano.com): nato per gli alberghi, poi esteso ai servizi
-turistici in generale.
+turistici in generale. Integrazioni:
+
+- disponibilità alberghiere con Booking.com;
+- pagamenti con Stripe;
+- biglietti dei traghetti con FerryHopper;
+- alcuni servizi con Nefesy.
+
+Stack nel tempo:
 
 - Dal 2020: applicazioni in Symfony.
 - Dal 2012 al 2020: applicazioni in PHP custom.
