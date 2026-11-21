@@ -21,6 +21,11 @@ nei progetti indipendenti uso anche Laravel e curo il frontend in React.
 
 **Capri Online Srl** · sviluppatore backend · dal 2012
 
+Ho costruito il motore di prenotazione e di gestione delle disponibilità che sta dietro
+ai portali turistici del gruppo, fra cui [capri.com](https://www.capri.com) e
+[positano.com](https://www.positano.com): nato per gli alberghi, poi esteso ai servizi
+turistici in generale.
+
 - Dal 2020: applicazioni in Symfony.
 - Dal 2012 al 2020: applicazioni in PHP custom.
 
